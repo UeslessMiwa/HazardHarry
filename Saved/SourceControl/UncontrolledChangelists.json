@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Pickups/ST_ItemData.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Pickups/BP_Item_1_Parent.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Pickups/DT_ItemIndex.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/FirstPerson/Blueprints/BP_Harry.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/AY/QIGGPUMS7IVKA3AWZDKEIM.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Pickups/BP_Item.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Widgets/HUD_Inventory.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Maps/Map_001.umap",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Containers/BP_Container.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Containers/ST_ContainerData.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Containers/DT_Chest_001.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Meshes/Containers/sm_chest.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Pickups/Preset_Lists/EN_Consumable.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Pickups/Preset_Lists/EN_WeaponPreset.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Pickups/Preset_Lists/EN_ArmorPreset.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Containers/DT_ContainerIndex.uasset",
+				"M:/5-Work/UE5/HazardHarry5_7/Content/Blueprints/Interactables/Containers/BP_Container_Parent.uasset"
+			]
+		}
+	]
+}

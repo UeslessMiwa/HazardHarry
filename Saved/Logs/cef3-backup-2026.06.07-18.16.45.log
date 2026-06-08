@@ -1,3 +1,0 @@
-[5520:20624:0607/141642.601:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5520:20624:0607/141642.640:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19792:13716:0607/141645.253:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F36616756E1C24246EFC2F88421BD089 will be ignored

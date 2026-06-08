@@ -8,22 +8,18 @@ Saved/
 .vs/
 *.VC.db
 *.VC.opendb
-*.suo
+*.sln
 
-# IDE files
-.vscode/
+# Rider
 .idea/
 
-# Build outputs
-*.pdb
+# VSCode
+.vscode/
+
+# Build files
 *.obj
+*.pdb
 *.ipch
 
-# OS files
+# Mac/Linux
 .DS_Store
-Thumbs.db
-
-# Optional: ignore generated project files
-*.sln
-*.xcodeproj
-*.xcworkspace
